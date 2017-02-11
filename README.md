@@ -1,2 +1,2 @@
 # halal-express
-Aplikasi HALAL MUI dengan express
+Aplikasi HALAL MUI dengan express js
